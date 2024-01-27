@@ -46,6 +46,7 @@ export class YubinBangoCore {
         if (val.length === 7) {
             return val;
         }
+        return null;
     }
     addrDic(region_id = 0, region = '', locality = '', street = '', extended = ''): Addr {
         return {

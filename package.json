@@ -1,6 +1,6 @@
 {
   "name": "yubinbango-core-strict",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "",
   "main": "yubinbango-core.js",
   "directories": {
@@ -9,16 +9,7 @@
   "scripts": {
     "test": "gulp test"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ninomae-makoto/yubinbango-core-strict"
-  },
-  "author": "ninomae.makoto.develop@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/yubinbango/yubinbango-core/issues"
-  },
-  "homepage": "https://github.com/ninomae-makoto/yubinbango-core-strict",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-angular-protractor": "^0.1.1",
